@@ -1,0 +1,23 @@
+*, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f7f9fc;
+}
+
+/* table */
+section#box-data{
+    position: relative;
+    width: 80%;
+    min-height: 250px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+#box-data a{
+    text-decoration: none;
+}
